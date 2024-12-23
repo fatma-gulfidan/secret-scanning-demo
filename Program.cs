@@ -4,8 +4,11 @@ class Program
 {
     static void Main()
     {
-        // SABİT ŞİFRE (BU SADECE DEMO AMAÇLIDIR!)
-        const string HardcodedPassword = "DemoSecret123"; // SECRET
+        // API KEY formatında bir secret
+        const string ApiKey = "sk_test_1234567890abcdef12345678"; // SECRET
+
+        // Sabit şifre
+        const string HardcodedPassword = "P@ssw0rd123!"; // SECRET
 
         Console.WriteLine("Şifreyi girin:");
         string userInput = Console.ReadLine();
