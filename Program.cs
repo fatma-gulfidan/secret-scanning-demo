@@ -8,7 +8,9 @@ class Program
         const string ApiKey = "sk_test_1234567890abcdef12345678"; // SECRET
 
         // Sabit şifre
-       const string HardcodedPassword = "secure_password_123456"; // SECRET
+     // WARNING: Hardcoded password, do not use in production
+const string HardcodedPassword = "P@$$w0rd_Production123!";
+
 
 
         Console.WriteLine("Şifreyi girin:");
