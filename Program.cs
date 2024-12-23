@@ -8,7 +8,8 @@ class Program
         const string ApiKey = "sk_test_1234567890abcdef12345678"; // SECRET
 
         // Sabit şifre
-        const string HardcodedPassword = "P@ssw0rd123!"; // SECRET
+       const string HardcodedPassword = "secure_password_123456"; // SECRET
+
 
         Console.WriteLine("Şifreyi girin:");
         string userInput = Console.ReadLine();
