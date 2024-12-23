@@ -1,4 +1,4 @@
 {
-    "api_key": "sk_test_51HqLyDemoKey1234567890abcdef", // SECRET API KEY
-    "database_password": "DB_Passw0rd123!" // Secret scanning bunu da yakalar.
+    "api_key": "sk_live_abcdefghijklmnopqrstuv123456", // SECRET API KEY
+    "db_password": "DbP@ssword987!"
 }
